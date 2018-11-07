@@ -1,4 +1,4 @@
-# file: postmates_hw_mnist.py
+# file: mnist_pipe.py
 # Description: 
 #
 # This file contains the mnist_pipeline class for trainining a simple 
@@ -34,7 +34,7 @@
 #              or inference.
 #     
 # 
-# Usage: python postmates_hw_mnist.py use_gpu tune_params serve predict model_path image_path
+# Usage: python mnist_pipe.py use_gpu tune_params serve predict model_path image_path
 # Author: Zachary Greenberg
 # Date last edited: 11/04/18
 
